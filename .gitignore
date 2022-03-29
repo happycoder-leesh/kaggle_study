@@ -127,3 +127,21 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Boston_house.csv
+car_price.ipynb
+CarPrice_Assignment.csv
+poly.csv
+sample_submission.csv
+submission.csv
+test.csv
+titanic_submission.csv
+train.csv
+train_no_encoding.csv
+tune_lgbm.csv
+tune_voting.csv
+tune_xgb.csv
+VC_pred.csv
+xgb_pred.csv
+와인.zip
+청와대 청원.zip
+타이타닉.zip
